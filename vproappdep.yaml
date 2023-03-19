@@ -15,7 +15,7 @@ spec:
         app: vproapp
     spec:
       containers:
-      - name: vporoapp
+      - name: vproapp
         image: vprofile/vprofileapp:V1
         ports:
            - name: vproapp-port
